@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "A1T1/CS 1111-01/Reading Material/Structured Programming – Programming Fundamentals.pdf"
+                "file": "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics- The art of programming/1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Structured Programming – Programming Fundamentals"
+              "title": "1"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 1000.5
   },
   "right": {
     "id": "680bfaa486ec63d2",
@@ -170,18 +170,19 @@
       "fit:Fit Sync": false
     }
   },
-  "active": "0f71bdf506c25c80",
+  "active": "afb0cf7dce3e2dbf",
   "lastOpenFiles": [
+    "A1T1/CS 1111-01/Reading Material/Untitled.md",
+    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics- The art of programming/1.pdf",
+    "A1T1/CS 1111-01/Reading Material/Structured Programming – Programming Fundamentals.pdf",
     "A1T1/CS 1111-01/Reading Material/What is Debugging_ A Simple Guide for Beginners.pdf",
     "A1T1/CS 1111-01/Unit 7/Overview.md",
     "Academic Success Plan.docx",
-    "A1T1/CS 1111-01/Reading Material/Structured Programming – Programming Fundamentals.pdf",
     "A1T1/CS 1111-01/Reading Material/What exactly is a programming paradigm.pdf",
-    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/3.pdf",
+    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics- The art of programming/3.pdf",
     "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/Unconfirmed 775878.crdownload",
-    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/2.pdf",
+    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics- The art of programming/2.pdf",
     "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/Unconfirmed 170434.crdownload",
-    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/1.pdf",
     "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/Unconfirmed 851352.crdownload",
     "Rough Sheet.md",
     "A1T1/UNIV 1001-02/Unit 7/Discussion Forum/Attempt.md",
