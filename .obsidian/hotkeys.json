@@ -1,0 +1,42 @@
+{
+  "eleven-labs:eleven-labs-open-modal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "voice:play-audio": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "voice:stop-audio": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "voice:pause-audio": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "voice:play-or-stop-audio": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ]
+}

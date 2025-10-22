@@ -1,0 +1,6 @@
+![[UoPeople/A1T1/CS 1111-01/Unit 2/Media/AA Rubric Q1.png]]
+![[UoPeople/A1T1/CS 1111-01/Unit 2/Media/AA Rubric Q2.png]]
+![[UoPeople/A1T1/CS 1111-01/Unit 2/Media/AA Rubric Q3.png]]
+![[AA Rubric Q4.png]]
+![[AA Rubric Clarity & Mechanics.png]]
+![[AA Rubric Sources and Evidence.png]]

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d0bdcf6fb34b9668","x":-120,"y":-300,"width":250,"height":60,"color":"1","type":"text","text":"Object-Oriented Model"},
+		{"id":"0dca741169825762","x":-280,"y":-200,"width":250,"height":60,"color":"3","type":"text","text":"Employee"},
+		{"id":"c9eca08c86219139","type":"text","text":"Attributes\n\nName","x":-280,"y":-140,"width":250,"height":80,"color":"3"},
+		{"id":"9a5728458b5c0838","type":"text","text":"Job Title","x":-280,"y":-60,"width":250,"height":60,"color":"3"},
+		{"id":"5fc278eea070f269","type":"text","text":"Phone Number","x":-280,"y":0,"width":250,"height":60,"color":"3"},
+		{"id":"8f297e06f466ed89","type":"text","text":"Salary","x":-280,"y":60,"width":250,"height":60,"color":"3"},
+		{"id":"48e79e2d2cef5a17","type":"text","text":"Department ID","x":-280,"y":120,"width":250,"height":60,"color":"3"},
+		{"id":"4d4107d66c9aebc9","type":"text","text":"Methods\n\nGet Hired","x":-280,"y":180,"width":250,"height":80,"color":"3"},
+		{"id":"2a44ec0f430071eb","type":"text","text":"Change Number","x":-280,"y":260,"width":250,"height":60,"color":"3"},
+		{"id":"071017f5e3411676","type":"text","text":"Department","x":60,"y":-200,"width":250,"height":60,"color":"3"},
+		{"id":"403b131a7b42771e","type":"text","text":"Attributes\n\nDepartment ID","x":60,"y":-140,"width":250,"height":80,"color":"3"},
+		{"id":"762289dca24c21d3","type":"text","text":"Department Name","x":60,"y":-60,"width":250,"height":60,"color":"3"},
+		{"id":"4d80f1540c9feff5","type":"text","text":"","x":60,"y":0,"width":250,"height":180,"color":"3"},
+		{"id":"98df221331c37f8b","type":"text","text":"Methods\n\nChange Department","x":60,"y":180,"width":250,"height":140,"color":"3"}
+	],
+	"edges":[
+		{"id":"1a946e754caa76c5","fromNode":"48e79e2d2cef5a17","fromSide":"right","toNode":"403b131a7b42771e","toSide":"left","toEnd":"none"}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"2aad9fdbda174f55","x":-140,"y":-360,"width":250,"height":60,"color":"#164dbb","type":"text","text":"College"},
+		{"id":"710b90a3edc6676d","x":-520,"y":-140,"width":250,"height":60,"color":"#164dbb","type":"text","text":"CSE Department"},
+		{"id":"25ab0e8735d945dd","x":220,"y":-140,"width":250,"height":60,"color":"#164dbb","type":"text","text":"Library"},
+		{"id":"2b6ff9f5273c271f","x":-140,"y":60,"width":250,"height":60,"color":"#164dbb","type":"text","text":"Student"},
+		{"id":"5a28a3df50d59e32","x":920,"y":-420,"width":250,"height":60,"color":"4","type":"text","text":"Vendor"},
+		{"id":"b61c470e7031dbd6","x":920,"y":140,"width":250,"height":60,"color":"3","type":"text","text":"Sales Transaction"},
+		{"id":"689ac60055b26ec2","x":1360,"y":-140,"width":250,"height":60,"color":"#0055ff","type":"text","text":"Product"},
+		{"id":"a80f05ce3df14318","x":920,"y":-140,"width":250,"height":60,"color":"#0055ff","type":"text","text":"Customer"},
+		{"id":"fa06141f6023684a","x":480,"y":-140,"width":250,"height":60,"color":"#0055ff","type":"text","text":"Employee"},
+		{"id":"ffc56fb84e405238","x":345,"y":-640,"width":250,"height":60,"color":"1","type":"text","text":"Network Model"}
+	],
+	"edges":[
+		{"id":"37392175ef2d72b8","fromNode":"2aad9fdbda174f55","fromSide":"bottom","toNode":"710b90a3edc6676d","toSide":"top"},
+		{"id":"3c2be65605846033","fromNode":"2aad9fdbda174f55","fromSide":"bottom","toNode":"25ab0e8735d945dd","toSide":"top"},
+		{"id":"dcce411f6277f206","fromNode":"710b90a3edc6676d","fromSide":"bottom","toNode":"2b6ff9f5273c271f","toSide":"top"},
+		{"id":"93ec9e35ba966d0d","fromNode":"25ab0e8735d945dd","fromSide":"bottom","toNode":"2b6ff9f5273c271f","toSide":"top"},
+		{"id":"4e473a4babb197bb","fromNode":"5a28a3df50d59e32","fromSide":"bottom","toNode":"fa06141f6023684a","toSide":"top"},
+		{"id":"eb0a7691807c6b14","fromNode":"5a28a3df50d59e32","fromSide":"bottom","toNode":"a80f05ce3df14318","toSide":"top"},
+		{"id":"6310a09a2ce16ddd","fromNode":"5a28a3df50d59e32","fromSide":"bottom","toNode":"689ac60055b26ec2","toSide":"top"},
+		{"id":"f9ec5884c69a7d0f","fromNode":"fa06141f6023684a","fromSide":"bottom","toNode":"b61c470e7031dbd6","toSide":"top"},
+		{"id":"be3095cca6bf6d21","fromNode":"a80f05ce3df14318","fromSide":"bottom","toNode":"b61c470e7031dbd6","toSide":"top"},
+		{"id":"c714422536a4ee5d","fromNode":"689ac60055b26ec2","fromSide":"bottom","toNode":"b61c470e7031dbd6","toSide":"top"}
+	]
+}

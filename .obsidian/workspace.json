@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "f74f116cadfbd4d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "98859e3dd49b89f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f71bdf506c25c80",
+            "type": "leaf",
+            "state": {
+              "type": "docx-view",
+              "state": {
+                "file": "Academic Success Plan.docx"
+              },
+              "icon": "lucide-file",
+              "title": "Academic Success Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94fee7c134feb31f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0978405903edde70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afb0cf7dce3e2dbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "29de3a760cb038a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c2eba9d440c5582",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "680bfaa486ec63d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5818102cd2c33290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b5d8445671d4f9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Creativity Kills/Cloo/Observations for change.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Observations for change"
+            }
+          },
+          {
+            "id": "17768cf890456c85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A1T1/CS 1111-01/Unit 1/Assignment Activity/Attempt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Attempt"
+            }
+          },
+          {
+            "id": "26c744b27ab061b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "36cbec1a8883e076",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A1T1/CS 1111-01/Unit 1/Assignment Activity/Attempt.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Attempt"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "voice:Voice": false
+    }
+  },
+  "active": "0f71bdf506c25c80",
+  "lastOpenFiles": [
+    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/3.pdf",
+    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/Unconfirmed 775878.crdownload",
+    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/2.pdf",
+    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/Unconfirmed 170434.crdownload",
+    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/1.pdf",
+    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/Unconfirmed 851352.crdownload",
+    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming",
+    "A1T1/CS 1111-01/Reading Material/Insight into theoretical and applied informatics: Introduction to information technologies and computer science/3.2.1.pdf",
+    "A1T1/CS 1111-01/Reading Material/Insight into theoretical and applied informatics: Introduction to information technologies and computer science/Unconfirmed 150105.crdownload",
+    "A1T1/CS 1111-01/Reading Material/Insight into theoretical and applied informatics: Introduction to information technologies and computer science/3.1.1.pdf",
+    "A1T1/CS 1111-01/Reading Material/Insight into theoretical and applied informatics: Introduction to information technologies and computer science/Unconfirmed 661093.crdownload",
+    "Rough Sheet.md",
+    "A1T1/UNIV 1001-02/Unit 7/Discussion Forum/Attempt.md",
+    "Unit Template/Overview.md",
+    "A1T1/CS 1111-01/Unit 6/Overview.md",
+    "A1T1/CS 1111-01/Unit 7/Overview.md",
+    "A1T1/UNIV 1001-02/Unit 7/Discussion Forum/Rubric.md",
+    "A1T1/UNIV 1001-02/Unit 7/Discussion Forum/Instructions.md",
+    "A1T1/UNIV 1001-02/Unit 7/Assignment Activity/Rubric.md",
+    "A1T1/UNIV 1001-02/Unit 7/Assignment Activity/Instructions.md",
+    "A1T1/UNIV 1001-02/Unit 7/Assignment Activity/Attempt.md",
+    "A1T1/UNIV 1001-02/Unit 7/Overview.md",
+    "A1T1/CS 1111-01/Unit 6/Notes/Misc.md",
+    "A1T1/CS 1111-01/Unit 7/Discussion Forum/Rubric.md",
+    "A1T1/CS 1111-01/Unit 7/Discussion Forum/Instructions.md",
+    "A1T1/CS 1111-01/Unit 7/Discussion Forum/Attempt.md",
+    "A1T1/CS 1111-01/Unit 7/Assignment Activity/Rubric.md",
+    "A1T1/CS 1111-01/Unit 7/Assignment Activity/Instructions.md",
+    "A1T1/CS 1111-01/Unit 7/Assignment Activity/Attempt.md",
+    "Time Management/Time chart.md",
+    "A1 Calendar.md",
+    "Grading System.md",
+    "USD Card.md",
+    "A1T1/CS 1111-01/Unit 6/Discussion Forum/Attempt.md",
+    "A1T1/UNIV 1001-02/Unit 6/Assignment Activity/Part 2A.excalidraw.md",
+    "A1T1/CS 1111-01/Unit 5/Discussion Forum/Attempt.md",
+    "Untitled.canvas",
+    "Media/Academic Honors.png",
+    "A1T1/CS 1111-01/Unit 5/Media/Entity-Relationship Data Model.canvas",
+    "A1T1/CS 1111-01/Unit 5/Media/Object-Oriented Data Model.canvas",
+    "A1T1/CS 1111-01/Unit 5/Media/Relational Data Model.canvas",
+    "A1T1/CS 1111-01/Unit 5/Media/Network Database Model.canvas",
+    "A1T1/CS 1111-01/Unit 5/Media/Hierarchical Database Model.canvas",
+    "Media/GPA & CGPA Calculation.png",
+    "Pasted image 20251003180742.png",
+    "Media/A1 Calendar.png",
+    "Media/Grading Table.png",
+    "A1T1/CS 1111-01/Unit 3/Media/Boolean Algebra Introduction.png",
+    "A1T1/CS 1111-01/Unit 1/Media/Johann von Neumann Architecture.png",
+    "A1T1/CS 1111-01/Unit 1/Media/General Purpose Architecture.png",
+    "A1T1/CS 1111-01/Unit 1/Media/General purpose architecture.png",
+    "A1T1/CS 1111-01/Unit 1/Media/DF Rubric p. 3.png"
+  ]
+}

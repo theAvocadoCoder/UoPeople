@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"33201aa65d456d10","x":-325,"y":-360,"width":250,"height":60,"color":"3","type":"text","text":"Entity A"},
+		{"id":"27517601a0bd8c52","x":0,"y":-360,"width":250,"height":60,"color":"#0659e0","type":"text","text":"Relationship"},
+		{"id":"91b165d00a613ae3","x":320,"y":-360,"width":250,"height":60,"color":"3","type":"text","text":"Entity B"},
+		{"id":"8d9bf2845d9a478c","x":-325,"y":-500,"width":250,"height":60,"color":"1","type":"text","text":"Attribute"},
+		{"id":"b66b8468ee0fe583","type":"text","text":"Attribute","x":-680,"y":-360,"width":250,"height":60,"color":"1"},
+		{"id":"99a0d9f0f2bb5c6d","type":"text","text":"Attribute","x":-325,"y":-220,"width":250,"height":60,"color":"1"},
+		{"id":"90c77ea4ce8848b6","type":"text","text":"Attribute","x":320,"y":-500,"width":250,"height":60,"color":"1"},
+		{"id":"0871d3fbe6abdf34","type":"text","text":"Attribute","x":660,"y":-360,"width":250,"height":60,"color":"1"},
+		{"id":"958c76baa65d73f9","type":"text","text":"Attribute","x":320,"y":-220,"width":250,"height":60,"color":"1"},
+		{"id":"ad24a134e6846ffc","type":"text","text":"ER Model","x":0,"y":-640,"width":250,"height":60,"color":"6"},
+		{"id":"d64225401fdff486","type":"text","text":"Teacher","x":-325,"y":220,"width":250,"height":60},
+		{"id":"f2c47836ea634410","type":"text","text":"Works for","x":0,"y":220,"width":250,"height":60},
+		{"id":"e23741a467fceb25","type":"text","text":"Department","x":320,"y":220,"width":250,"height":60},
+		{"id":"124f1cbebce00437","type":"text","text":"Mobile Number","x":-575,"y":380,"width":250,"height":60},
+		{"id":"60653e439b2f7a38","type":"text","text":"Salary","x":-75,"y":380,"width":250,"height":60},
+		{"id":"0812d6cd4712ff36","type":"text","text":"Age","x":-325,"y":540,"width":250,"height":60},
+		{"id":"be3c183794aec751","type":"text","text":"Teacher Name","x":-520,"y":50,"width":250,"height":60},
+		{"id":"3f3e1f965ea4b12e","type":"text","text":"Teacher ID","x":-125,"y":50,"width":250,"height":60},
+		{"id":"274d67c689d0b27a","type":"text","text":"Department ID","x":360,"y":60,"width":250,"height":60},
+		{"id":"2ef5cc2374507e3e","type":"text","text":"Department Name","x":380,"y":410,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"111e895cf62b9aeb","fromNode":"33201aa65d456d10","fromSide":"top","toNode":"8d9bf2845d9a478c","toSide":"bottom","toEnd":"none"},
+		{"id":"a76add5d00361f38","fromNode":"33201aa65d456d10","fromSide":"bottom","toNode":"99a0d9f0f2bb5c6d","toSide":"top","toEnd":"none"},
+		{"id":"b494a36de0d3373c","fromNode":"33201aa65d456d10","fromSide":"left","toNode":"b66b8468ee0fe583","toSide":"right","toEnd":"none"},
+		{"id":"ba1406b11c83fbf7","fromNode":"33201aa65d456d10","fromSide":"right","toNode":"27517601a0bd8c52","toSide":"left","toEnd":"none"},
+		{"id":"a1f2b468b9fcfda9","fromNode":"91b165d00a613ae3","fromSide":"left","toNode":"27517601a0bd8c52","toSide":"right","toEnd":"none"},
+		{"id":"c71aab6ee59689c1","fromNode":"91b165d00a613ae3","fromSide":"top","toNode":"90c77ea4ce8848b6","toSide":"bottom","toEnd":"none"},
+		{"id":"8717f3f5bf7be3e5","fromNode":"91b165d00a613ae3","fromSide":"bottom","toNode":"958c76baa65d73f9","toSide":"top","toEnd":"none"},
+		{"id":"8fa69a02c06305ed","fromNode":"91b165d00a613ae3","fromSide":"right","toNode":"0871d3fbe6abdf34","toSide":"left","toEnd":"none"},
+		{"id":"4f532676cb669105","fromNode":"d64225401fdff486","fromSide":"top","toNode":"3f3e1f965ea4b12e","toSide":"left","toEnd":"none"},
+		{"id":"09cfa91a484ca154","fromNode":"d64225401fdff486","fromSide":"bottom","toNode":"0812d6cd4712ff36","toSide":"top","toEnd":"none"},
+		{"id":"b048d6b84f94eec5","fromNode":"d64225401fdff486","fromSide":"bottom","toNode":"124f1cbebce00437","toSide":"right","toEnd":"none"},
+		{"id":"3d1645f65cabfe00","fromNode":"d64225401fdff486","fromSide":"right","toNode":"f2c47836ea634410","toSide":"left","toEnd":"none"},
+		{"id":"f9903e2f54e4bfea","fromNode":"e23741a467fceb25","fromSide":"left","toNode":"f2c47836ea634410","toSide":"right","toEnd":"none"},
+		{"id":"8e6a577520942a14","fromNode":"e23741a467fceb25","fromSide":"top","toNode":"274d67c689d0b27a","toSide":"bottom","toEnd":"none"},
+		{"id":"3929c037775b7d6d","fromNode":"e23741a467fceb25","fromSide":"bottom","toNode":"2ef5cc2374507e3e","toSide":"top","toEnd":"none"},
+		{"id":"d2e6c613ec5382c9","fromNode":"d64225401fdff486","fromSide":"top","toNode":"be3c183794aec751","toSide":"right","toEnd":"none"},
+		{"id":"0c71be16f577e0a6","fromNode":"d64225401fdff486","fromSide":"bottom","toNode":"60653e439b2f7a38","toSide":"left","toEnd":"none"}
+	]
+}
