@@ -1,0 +1,13 @@
+- Do breathing exercises
+- Drink warm milk
+- Take a walk
+- Draw zentangles
+- Listen to the current hyperfixation song (right now: Where is my husband- RAYE)
+- Do guided meditation on Atom
+- Take a power nap (max 20 minutes)
+- Eat a mars bar
+- Eat a banana
+- Soak garri with milk, sugar and groundnut
+- Burn incense
+- Joke with the boys
+- Ask someone else to front

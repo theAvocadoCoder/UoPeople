@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "98859e3dd49b89f5",
+        "id": "5f8a242b9399eafc",
         "type": "tabs",
         "children": [
           {
-            "id": "0f71bdf506c25c80",
+            "id": "8237c9a432509a66",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics- The art of programming/1.pdf"
+                "file": "A1T1/CS 1111-01/Reading Material/Cloud Computing Technology/1.pdf"
               },
               "icon": "lucide-file-text",
               "title": "1"
+            }
+          },
+          {
+            "id": "e26f036750b327ab",
+            "type": "leaf",
+            "state": {
+              "type": "docx-view",
+              "state": {
+                "file": "A1T1/CS 1111-01/Unit 8/Assignment Activity/CS 1111-01 Unit 8 by Kelechi Nwa-uwa.docx"
+              },
+              "icon": "lucide-file",
+              "title": "CS 1111-01 Unit 8 by Kelechi Nwa-uwa"
             }
           }
         ]
@@ -76,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1000.5
+    "width": 313.5
   },
   "right": {
     "id": "680bfaa486ec63d2",
@@ -170,44 +182,48 @@
       "fit:Fit Sync": false
     }
   },
-  "active": "afb0cf7dce3e2dbf",
+  "active": "8237c9a432509a66",
   "lastOpenFiles": [
-    "A1T1/CS 1111-01/Reading Material/Untitled.md",
-    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics- The art of programming/1.pdf",
-    "A1T1/CS 1111-01/Reading Material/Structured Programming – Programming Fundamentals.pdf",
-    "A1T1/CS 1111-01/Reading Material/What is Debugging_ A Simple Guide for Beginners.pdf",
-    "A1T1/CS 1111-01/Unit 7/Overview.md",
-    "Academic Success Plan.docx",
-    "A1T1/CS 1111-01/Reading Material/What exactly is a programming paradigm.pdf",
-    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics- The art of programming/3.pdf",
-    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/Unconfirmed 775878.crdownload",
-    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics- The art of programming/2.pdf",
-    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/Unconfirmed 170434.crdownload",
-    "A1T1/CS 1111-01/Reading Material/Flowchart and algorithm basics: The art of programming/Unconfirmed 851352.crdownload",
-    "Rough Sheet.md",
+    "A1T1/CS 1111-01/Unit 8/Assignment Activity/CS 1111-01 Unit 8 by Kelechi Nwa-uwa.docx",
+    "A1T1/CS 1111-01/Unit 8/Assignment Activity/Unconfirmed 698328.crdownload",
+    "A1T1/CS 1111-01/Unit 8/Assignment Activity/Unconfirmed 770281.crdownload",
+    "A1T1/CS 1111-01/Unit 8/Assignment Activity/CS 1111-01 Unit 8 by Kelechi Nwa-uwa (1).docx",
+    "A1T1/CS 1111-01/Unit 8/Assignment Activity/Unconfirmed 519929.crdownload",
+    "A1T1/CS 1111-01/Reading Material/Hands-on AI for IoT/1.pdf",
+    "A1T1/CS 1111-01/Unit 8/Assignment Activity/Unconfirmed 120328.crdownload",
+    "A1T1/CS 1111-01/Reading Material/Blockchain Technology and Applications/1.pdf",
+    "A1T1/CS 1111-01/Reading Material/Hands-on AI for IoT/Unconfirmed 423549.crdownload",
+    "A1T1/CS 1111-01/Reading Material/AI and Machine Learning/3.pdf",
+    "A1T1/CS 1111-01/Unit 2/Assignment Activity/CS 1111-01 Unit 2 by Kelechi Nwa-uwa.docx",
+    "A1T1/CS 1111-01/Unit 8/Overview.md",
+    "A1T1/CS 1111-01/Unit 2/Notes/Number Systems & Codes.md",
+    "A1T1/CS 1111-01/Unit 2/Overview.md",
+    "A1T1/CS 1111-01/Unit 1/Overview.md",
+    "A1T1/CS 1111-01/Unit 4/Overview.md",
+    "A1T1/CS 1111-01/Unit 3/Overview.md",
+    "Untitled.md",
+    "A1T1/CS 1111-01/Unit 8/Discussion Forum/Rubric.md",
+    "A1T1/CS 1111-01/Unit 8/Discussion Forum/Instructions.md",
+    "A1T1/CS 1111-01/Unit 8/Discussion Forum/Attempt.md",
+    "A1T1/CS 1111-01/Unit 8/Assignment Activity/Rubric.md",
+    "A1T1/CS 1111-01/Unit 8/Assignment Activity/Instructions.md",
+    "A1T1/CS 1111-01/Unit 8/Assignment Activity/Attempt.md",
+    "A1T1/UNIV 1001-02/Unit 8/Discussion Forum/Stress Toolkit.md",
+    "A1T1/UNIV 1001-02/Unit 8/Discussion Forum/Attempt.md",
     "A1T1/UNIV 1001-02/Unit 7/Discussion Forum/Attempt.md",
-    "Unit Template/Overview.md",
-    "A1T1/CS 1111-01/Unit 6/Overview.md",
-    "A1T1/UNIV 1001-02/Unit 7/Discussion Forum/Rubric.md",
-    "A1T1/UNIV 1001-02/Unit 7/Discussion Forum/Instructions.md",
-    "A1T1/UNIV 1001-02/Unit 7/Assignment Activity/Rubric.md",
-    "A1T1/UNIV 1001-02/Unit 7/Assignment Activity/Instructions.md",
-    "A1T1/UNIV 1001-02/Unit 7/Assignment Activity/Attempt.md",
-    "A1T1/UNIV 1001-02/Unit 7/Overview.md",
-    "A1T1/CS 1111-01/Unit 6/Notes/Misc.md",
-    "A1T1/CS 1111-01/Unit 7/Discussion Forum/Rubric.md",
-    "A1T1/CS 1111-01/Unit 7/Discussion Forum/Instructions.md",
+    "A1T1/CS 1111-01/Unit 7/Overview.md",
     "A1T1/CS 1111-01/Unit 7/Discussion Forum/Attempt.md",
-    "A1T1/CS 1111-01/Unit 7/Assignment Activity/Rubric.md",
-    "A1T1/CS 1111-01/Unit 7/Assignment Activity/Instructions.md",
-    "A1T1/CS 1111-01/Unit 7/Assignment Activity/Attempt.md",
-    "Time Management/Time chart.md",
-    "A1 Calendar.md",
+    "A1T1/UNIV 1001-02/Unit 6/Assignment Activity/Attempt.md",
+    "A1T1/UNIV 1001-02/Unit 2/Discussion Forum/Attempt.md",
+    "A1T1/UNIV 1001-02/Unit 3/Discussion Forum/Attempt.md",
+    "A1T1/UNIV 1001-02/Unit 4/Discussion Forum/Attempt.md",
+    "A1T1/UNIV 1001-02/Unit 6/Discussion Forum/Attempt.md",
+    "A1T1/UNIV 1001-02/Unit 5/Discussion Forum/Attempt.md",
     "Grading System.md",
-    "USD Card.md",
-    "A1T1/CS 1111-01/Unit 6/Discussion Forum/Attempt.md",
-    "A1T1/UNIV 1001-02/Unit 6/Assignment Activity/Part 2A.excalidraw.md",
-    "A1T1/CS 1111-01/Unit 5/Discussion Forum/Attempt.md",
+    "A1T1/CS 1111-01/Unit 7/Assignment Activity/Part 1.png",
+    "A1T1/CS 1111-01/Unit 7/Media/Planning Phase.png",
+    "A1T1/CS 1111-01/Unit 7/Media/Analysis Phase.png",
+    "A1T1/CS 1111-01/Unit 7/Media/Design Phase.png",
     "Untitled.canvas",
     "Media/Academic Honors.png",
     "A1T1/CS 1111-01/Unit 5/Media/Entity-Relationship Data Model.canvas",
@@ -219,10 +235,6 @@
     "Pasted image 20251003180742.png",
     "Media/A1 Calendar.png",
     "Media/Grading Table.png",
-    "A1T1/CS 1111-01/Unit 3/Media/Boolean Algebra Introduction.png",
-    "A1T1/CS 1111-01/Unit 1/Media/Johann von Neumann Architecture.png",
-    "A1T1/CS 1111-01/Unit 1/Media/General Purpose Architecture.png",
-    "A1T1/CS 1111-01/Unit 1/Media/General purpose architecture.png",
-    "A1T1/CS 1111-01/Unit 1/Media/DF Rubric p. 3.png"
+    "A1T1/CS 1111-01/Unit 3/Media/Boolean Algebra Introduction.png"
   ]
 }
